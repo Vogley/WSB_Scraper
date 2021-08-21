@@ -1,3 +1,8 @@
+"""
+Python Reddit Scraper for WSB.
+Author: Tyler J Vogel
+Date: 8/21/2021
+"""
 #! usr/bin/env python3
 import datetime as dt
 
